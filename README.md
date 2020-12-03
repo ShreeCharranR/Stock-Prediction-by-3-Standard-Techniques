@@ -7,8 +7,8 @@
 - Tech Indicators
 
 # Using Techincal Indicators
-!(Arima)[/tech.png)
+!(Arima)[/tech.PNG)
 
 
 # Using Techincal Indicators ARIMA
-!(cap)[/capture.png)
+!(cap)[/Capture.PNG)
