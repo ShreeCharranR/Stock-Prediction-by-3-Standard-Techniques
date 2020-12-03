@@ -11,4 +11,4 @@
 
 
 # Using Techincal Indicators ARIMA
-!(ArimaA)[/capture.png)
+!(cap)[/capture.png)
