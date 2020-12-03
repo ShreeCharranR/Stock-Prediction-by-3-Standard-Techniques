@@ -1,14 +1,17 @@
 # Time-Series-Forecasting-Analysis-Ensemble-in-Python
 
+
 - ARIMA
 - XG BOOST
 - LSTM
 - GRU
 - Tech Indicators
 
-# Using Techincal Indicators
-!(Arima)[/tech.PNG)
+# Using ARIMA
+![Arima](/1.PNG)
 
+# Using Fourier Transforms
+![Arima](/2.PNG)
 
-# Using Techincal Indicators ARIMA
-!(cap)[/Capture.PNG)
+# Using Techincal Indicators 
+![cap](/Capture.PNG)
