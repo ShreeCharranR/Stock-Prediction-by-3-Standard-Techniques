@@ -1,2 +1,14 @@
-# Stock-Prediction-by-3-Standard-Techniques
-1- Classical (Arima) 2- Technical Indicator 3- Deep Learning( LSTM &amp; GRU)
+# Time-Series-Forecasting-Analysis-Ensemble-in-Python
+
+- ARIMA
+- XG BOOST
+- LSTM
+- GRU
+- Tech Indicators
+
+# Using Techincal Indicators
+!(Arima)[/tech.png)
+
+
+# Using Techincal Indicators ARIMA
+!(ArimaA)[/capture.png)
